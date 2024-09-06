@@ -437,11 +437,11 @@ h4
 
 #hero .container {
   text-align: center;
-  background: rgba(255, 255, 255, 0.9);
+/*   background: rgba(255, 255, 255, 0.9); */
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 100px;
-  border-top: 4px solid #00497d;
+/*   border-top: 4px solid #00497d; */
 }
 
 @media (max-width: 1200px) {
