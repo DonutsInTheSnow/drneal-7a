@@ -433,6 +433,7 @@ h4
   #hero .welcome-item {
     background-image: url('../img/hero-sign-mobile-bg.webp');
     background-size: contain;
+    background-position: center bottom;
   }
 }
 
