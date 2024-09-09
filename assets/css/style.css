@@ -431,7 +431,7 @@ h4
 
 @media (max-width: 767px) {
   #hero .welcome-item {
-    background-image: url('../img/hero-sign-mobile-bg.webp');
+    background-image: url('../img/hero-sign-mobile-bg-1.webp');
     background-size: contain;
     background-position: center bottom;
   }
